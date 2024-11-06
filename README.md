@@ -1,6 +1,8 @@
 # OpenAI-tool-calling-demo
 This script creates a chatbot using the OpenAI API to respond to user messages. It integrates custom functions for getting the current date and time, battery status, and live weather data for a specified location.
 
+https://github.com/user-attachments/assets/0f53d687-b6e9-4f06-ac02-3a09e389dddd
+
 ## Overview
 The script creates a chatbot using the OpenAI API that can respond to user questions and call specific functions to retrieve real-time information. It supports three custom functions:
 
